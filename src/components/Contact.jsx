@@ -3,7 +3,8 @@
 const Contact = () => {
   return (
       <div className="pt-[160px] md:pt-[120px]">
-          <div className="w-full bg-gradient-to-r from-[#607AFF] from-30% via-[#8DD3FF] via-90% to-[#B4D0FF] to-100% py-10 md:py-24">
+          <div className="w-full bg-gradient-to-r from-[#607AFF] from-30% via-[#8DD3FF] via-90% to-[#B4D0FF] to-100%
+           py-24 md:py-24">
           <div className="max-w-[800px] mx-auto px-5 text-center">
               <h2 className="text-2xl md:text-4xl font-bold text-white mb-4">
                   Join the Future of Healthcare

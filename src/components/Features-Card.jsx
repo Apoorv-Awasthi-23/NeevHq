@@ -130,7 +130,7 @@ const FeatCard = () => (
 
       <CardTilt className=" border-hsla relative pb-8 mb-7 h-full w-full overflow-hidden rounded-md md:h-[65vh]">
         <FeatureCard
-          src="./public/images/Imag-text.png"
+          src="/images/Imag-text.png"
           title={
             <div className="text-2xl sm:text-4xl mb-3 sm:mb-5 text-left font-bold md:whitespace-nowrap">
               Safe, Secure, Transparent
